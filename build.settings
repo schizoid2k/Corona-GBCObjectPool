@@ -17,6 +17,7 @@ settings =
 		default = "portrait",
 		supported = { "portrait" }
 	},
+    
 	iphone =
 	{
 		plist =
@@ -42,4 +43,11 @@ settings =
 			},
 		},
 	},
+    
+    window = {
+        defaultViewWidth = 640,
+        defaultViewHeight = 960,
+        enableCloseButton = true,
+        enableMinimizeButton = true,
+    }
 }

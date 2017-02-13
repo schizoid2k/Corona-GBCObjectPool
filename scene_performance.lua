@@ -53,7 +53,7 @@ local CreateShapeObject, CreateImageObject, ReturnObject
 local StartTraditional, StartPooling
 local onButtonPress
 
--- screen shotrcuts
+-- screen shortcuts
 local Screen = {
     Top = display.screenOriginY,
     Left = display.screenOriginX,  
@@ -480,7 +480,7 @@ function scene:hide( event )
     elseif ( phase == "did" ) then
         -- Code here runs immediately after the scene goes entirely off screen
         
-        GBCObjectPool.delete(shapePool)
+        --GBCObjectPool.delete(shapePool)
         GBCObjectPool.delete(imagePool)        
  
     end
