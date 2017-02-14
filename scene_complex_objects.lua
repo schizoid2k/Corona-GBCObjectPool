@@ -117,6 +117,7 @@ function onSquareTap(event)
     object.joints = nil
     
     -- remove listener from square
+    -- Note, I could of moved this to the returnMainObject() function
     object:removeEventListener("tap", onSquareTap)
     
     -- place square into pool
