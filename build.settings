@@ -6,11 +6,11 @@
 settings = 
 {
 
-    plugins = {  
-        ["plugin.GBCObjectPool"] = {
-            publisherId = "com.gamesbycandlelight",
-        },
-    }    
+--    plugins = {  
+--        ["plugin.GBCObjectPool"] = {
+--            publisherId = "com.gamesbycandlelight",
+--        },
+--    }    
     
 	orientation =
 	{

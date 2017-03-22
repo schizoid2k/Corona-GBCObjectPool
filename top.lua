@@ -36,6 +36,7 @@ local Examples = {
     {text = "Example 3 - Sprite Sheets", scene = "scene_spritesheets"},
     {text = "Example 4 - Multiple Pools", scene = "scene_multipool"},
     {text = "Example 5 - Complex Objects", scene = "scene_complex_objects"},
+    {text = "Example 6 - Passing Parameters", scene = "scene_parameters"},
 }
 
 local function onButtonPress(event)
