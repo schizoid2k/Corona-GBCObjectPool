@@ -16,8 +16,8 @@ GBC Object Pool is a CoronaSDK plugin that manages object pooling.  Object pooli
 
 ## External Links ##
 
-[GBC Object Pool Plugin] (https://marketplace.coronalabs.com/plugin/gbc-object-pool)
+[GBC Object Pool Plugin](https://marketplace.coronalabs.com/plugin/gbc-object-pool)
 
-[GBC Object Pool documentation] (http://gamesbycandlelight.com/gbc-pool/)
+[GBC Object Pool documentation](http://gamesbycandlelight.com/gbc-pool/)
 
 Thanks!
