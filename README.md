@@ -1,4 +1,4 @@
-# GBC Object Pool Sample Code#
+# GBC Object Pool Sample Code
 
 This repository contains a sample app that demonstrates object pooling via my CoronaSDK plugin **GBC Object Pool**.
 
